@@ -34,7 +34,7 @@
  | new categorical variables |
  | -------------------- |
  | LoanOriginationMonth |
- | LoanOriginationQuarter |
+ | LoanOriginationYear |
 
 
 ## Summary of Findings
