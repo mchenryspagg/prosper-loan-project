@@ -109,7 +109,8 @@ The main insights as listed are those which directly or indirectly answers the r
 
 - 2009 had a very low proportion of loans given out to borrowers which was likely due to low or no business activity within the first quarter of that year while 2013 had a very high proportion of loans given out.
 
-- The highest percentage of loans across all years had a listing category of ***Debt Consolidation***.
+- The highest percentage of loans across all years had a listing category of ***Debt Consolidation***. This connotes that the biggest reason why people take loans is mainly to pay off their other huge debts such as student loans, home equity loans etc.
+...that's quite interesting and worrisome 🤔🤔🤔
 
 
 ### Useful resources
