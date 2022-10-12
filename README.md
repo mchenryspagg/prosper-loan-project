@@ -78,9 +78,9 @@ Two new variables were also created - ***LoanOriginationMonth*** and ***LoanOrig
 
 #### Solution URL: 
 
-- [Data Exploration](./Part_I_exploration_loan.ipynb)
+- [Jupyter notebook](./Part_I_exploration_loan.ipynb)
 
-- [Slide Deck Presentation](./Part_II_loan_slide_deck.slides.html)
+- [Kaggle notebook](https://www.kaggle.com/code/henryokam/prosper-loan-exploratory-data-visualization/notebook)
 
 ### Built with
 
