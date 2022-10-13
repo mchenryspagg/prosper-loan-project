@@ -4,12 +4,14 @@
 
 - [Overview](#overview)
   - [Dataset](#dataset)
-  - [Summary of Findings](#summary-of-findings)
+  - [Summary of data wrangling](#summary-of-data-wrangling)
+  - [Research Questions](#research-questions)
   - [Links](#links)
   - [Built with](#built-with)
   - [Key Insights](#key-insights)
   - [Useful resources](#useful-resources)
 - [Acknowledgments](#acknowledgments)
+
 ## Dataset
 
 - This **[data set](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)** contains the customer's data from a fictional loan company known as **Prosper**. This dataset comprises of 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
@@ -37,7 +39,7 @@
  | LoanOriginationYear |
 
 
-## Summary of Findings
+## Summary of Data Wrangling
 
 - The first step involved was gathering the Prosper loan data, after which we created a subset from the main dataset consisting of 17 variables and 106312 observations which we worked with. 
 
@@ -48,45 +50,27 @@ Data cleaning was then carried out on the new dataset created which involved :
 - _***LoanStatus***, ***ListingCategory***, ***EmploymentStatus***, ***IncomeRange***, & ***LoanOriginationQuarter*** was also converted to category datatype_;
 - _***IncomeRange*** categories was reordered to be in a set order_.
 
+## Research Questions
+
 - After the Data cleaning, we proceeded to define the main variables of interest with our research questions:
   1. Factors that affect a loan's outcome status.
   2. Factors that affects the borrower's APR or interest rate.
   3. Identifying if there are differences between loans depending on how large the original loan amount was?
 
-- After which we proceeded to carry out data exploration on the data using different types of visualizations (Univariate, Bivariate, multivariate).
+## Links
 
-| main variables |
-| -------------- |
-| LoanStatus | 
-| BorrowerAPR | 
-| BorrowerRate | 
-| LoanOriginalAmount |
-
-| supporting variables |
-| -------------------- |
-| ListingCategory |
-| IncomeRange |
-| StatedMonthlyIncome |
-| EmploymentStatus |
-| IsBorrowerHomeOwner |
-| LoanOriginationQuarter |
-
-Two new variables were also created - ***LoanOriginationMonth*** and ***LoanOriginationYear*** - which was included as part of the supporting variables, thus making the dataset of 19 variables and 106312 observations. Key insights were garnered from the various visualizations which formed the basis for answering our research questions.
- 
-
-### Links
-
-#### Solution URL: 
+### Solution URL: 
 
 - [Jupyter notebook](./Part_I_exploration_loan.ipynb)
 
 - [Kaggle notebook](https://www.kaggle.com/code/henryokam/prosper-loan-exploratory-data-visualization/notebook)
 
-### Built with
+## Built with
 
 - Jupyter Notebook
 - Python
 - Pandas, Numpy, seaborn, matplotlib, nbconvert.
+
 ## Key Insights
 
 The main insights as listed are those which directly or indirectly answers the research questions as earlier portrayed looking at the univariate, bivariate and multivariate visualizations done during the data exploration. 
