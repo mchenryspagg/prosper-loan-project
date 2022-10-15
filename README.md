@@ -65,6 +65,8 @@ Data cleaning was then carried out on the new dataset created which involved :
 
 - [Kaggle notebook](https://www.kaggle.com/code/henryokam/prosper-loan-exploratory-data-visualization/notebook)
 
+- [slide deck Presentation](https://sites.google.com/view/mchenrys-portfolio/data-analysis-projects/prosper-loan-project)
+
 ## Built with
 
 - Jupyter Notebook
